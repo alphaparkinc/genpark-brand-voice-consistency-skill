@@ -1,4 +1,4 @@
-# brand-voice-consistency-skill
+# genpark-brand-voice-consistency-skill
 
 > **GenPark AI Agent Skill** — Audit and enforce brand voice consistency across marketing content.
 
